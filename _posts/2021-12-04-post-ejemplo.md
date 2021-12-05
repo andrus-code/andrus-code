@@ -3,6 +3,8 @@ layout: post
 title: "Write a Post"
 ---
 
+# Welcome
 
-Post de prueba
-Post de prueba
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
