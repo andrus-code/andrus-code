@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+paginate: S
+plugins:
+  -jekyll-paginate
