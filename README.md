@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @andrus-code
 - 👀 I’m interested in networking and English 
+- !:penguin: 
 - 🌱 I’m currently learning docker and kubernetes
 
 
