@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @andrus-code
 - 👀 I’m interested in networking and English 
-- :penguin: I have been working  as a system adminstrator for 14 years  at me University. After many years, now I am interesting in
-   work with a different people and culture and learn more with them.
+- :penguin: I have been working  as a system adminstrator for 14 years  at me University and after many years, now I am interesting in
+   work with a different people,culture and learn more with them.
 - 🌱 I’m currently learning docker and kubernetes
 
 
