@@ -32,7 +32,7 @@ knowledge and skills in **Docker**, **Docker Swarm**, **Infrastructure as Code**
 ---
 
 ### 📌 Pinned Repositories
-- **[Repository 1](link)**: Terraform
+- **[Repository 1](https://github.com/andrus-code/demo-terraform.git)**:  Demo Terraform
 - **[Repository 2](link)**: Deploy app to Kubernetes
 
 ---
